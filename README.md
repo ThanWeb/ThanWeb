@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# My Name is Hans Rio
-# I have an interest in web programming
-# Currently study at Udayana University
+- My Name is Hans Rio
+- I have an interest in web programming
+- Currently study at Udayana University
 
 <!--
 **ThanWeb/ThanWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
